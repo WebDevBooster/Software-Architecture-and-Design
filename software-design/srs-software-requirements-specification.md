@@ -1,11 +1,10 @@
 How to Write/Develop an Effective Software Requirements Specification (SRS)
 === 
 
-Organization and Structure
+1 Organization and Structure
 ---
 
-
-### Understand and Organize Requirements
+### 1.1 Understand and Organize Requirements
 
 One way to understand software requirements is to organize them based on the different aspects they represent in a software system.
 
@@ -18,7 +17,7 @@ One way to understand software requirements is to organize them based on the dif
 | Non-functional Requirement | Generic system characteristic e.g. visible part of the site should load in under 1 second |
 | External Interface Requirement | System integration e.g. get data from a vendor API |
 
-### Group Requirement Activities into Categories
+### 1.2 Group Requirement Activities into Categories
 
 * Requirement Development
   - Elicit
