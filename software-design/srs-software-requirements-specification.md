@@ -31,6 +31,18 @@ One way to understand software requirements is to organize them based on the dif
   - Schedule
   - Track
 
+All of those activities need to be done regardless of the methodology or tools used for software development. 
+
+Here's an example of how those activities could be integrated within the SCRUM framework: 
+
+| Prioritize | Estimate | Schedule | Track |
+| --- | --- | --- | --- |
+| Create a product backlog i.e. a prioritized list of features to be developed | Pick a few features and estimate the required effort (Planning Poker) | Pick a few (1-3) top priority requirements and put them into the next sprint's backlog | Track the progress using something like a "burn-down chart" |
+
+
+
+
+
 
 
 
